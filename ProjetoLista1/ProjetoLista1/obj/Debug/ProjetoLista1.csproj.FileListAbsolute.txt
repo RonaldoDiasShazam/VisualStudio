@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\ProjetoLista1\ProjetoLista1\obj\Debug\ProjetoLista1.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\source\repos\ProjetoLista1\ProjetoLista1\obj\Debug\ProjetoLista1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ProjetoLista1\ProjetoLista1\bin\Debug\ProjetoLista1.exe.config
+C:\Users\Aluno\source\repos\ProjetoLista1\ProjetoLista1\bin\Debug\ProjetoLista1.exe
+C:\Users\Aluno\source\repos\ProjetoLista1\ProjetoLista1\bin\Debug\ProjetoLista1.pdb
+C:\Users\Aluno\source\repos\ProjetoLista1\ProjetoLista1\obj\Debug\ProjetoLista1.exe
+C:\Users\Aluno\source\repos\ProjetoLista1\ProjetoLista1\obj\Debug\ProjetoLista1.pdb

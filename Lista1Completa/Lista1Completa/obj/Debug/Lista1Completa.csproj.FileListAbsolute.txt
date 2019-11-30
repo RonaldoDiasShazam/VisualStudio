@@ -1,0 +1,12 @@
+H:\Lista1Completa\Lista1Completa\bin\Debug\Lista1Completa.exe.config
+H:\Lista1Completa\Lista1Completa\bin\Debug\Lista1Completa.exe
+H:\Lista1Completa\Lista1Completa\bin\Debug\Lista1Completa.pdb
+H:\Lista1Completa\Lista1Completa\obj\Debug\Lista1Completa.csproj.CoreCompileInputs.cache
+H:\Lista1Completa\Lista1Completa\obj\Debug\Lista1Completa.exe
+H:\Lista1Completa\Lista1Completa\obj\Debug\Lista1Completa.pdb
+G:\Progamação Algoritmo\Lista1Completa\Lista1Completa\bin\Debug\Lista1Completa.exe.config
+G:\Progamação Algoritmo\Lista1Completa\Lista1Completa\bin\Debug\Lista1Completa.exe
+G:\Progamação Algoritmo\Lista1Completa\Lista1Completa\bin\Debug\Lista1Completa.pdb
+G:\Progamação Algoritmo\Lista1Completa\Lista1Completa\obj\Debug\Lista1Completa.csproj.CoreCompileInputs.cache
+G:\Progamação Algoritmo\Lista1Completa\Lista1Completa\obj\Debug\Lista1Completa.exe
+G:\Progamação Algoritmo\Lista1Completa\Lista1Completa\obj\Debug\Lista1Completa.pdb

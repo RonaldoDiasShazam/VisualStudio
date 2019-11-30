@@ -1,0 +1,48 @@
+d:\documentos\visual studio 2015\Projects\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.exe.config
+d:\documentos\visual studio 2015\Projects\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.exe
+d:\documentos\visual studio 2015\Projects\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.pdb
+d:\documentos\visual studio 2015\Projects\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.Form1.resources
+d:\documentos\visual studio 2015\Projects\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.Properties.Resources.resources
+d:\documentos\visual studio 2015\Projects\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2015\Projects\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.exe
+d:\documentos\visual studio 2015\Projects\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.pdb
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.exe.config
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.exe
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.pdb
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.exe
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.pdb
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.csprojResolveAssemblyReference.cache
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.Properties.Resources.resources
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.csproj.GenerateResource.Cache
+I:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.exe.config
+I:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.exe
+I:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.pdb
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.exe.config
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.exe
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.pdb
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.exe
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.pdb
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\MySql.Data.dll
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\MySql.Data.xml
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.csprojResolveAssemblyReference.cache
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.Properties.Resources.resources
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.csproj.GenerateResource.Cache
+J:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.exe.config
+J:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.exe
+J:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.pdb
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.exe.config
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.exe
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.pdb
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.exe
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\ProjMusicaB.pdb
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\MySql.Data.dll
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\MySql.Data.xml
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.csprojResolveAssemblyReference.cache
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.FormMusicas.resources
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.Properties.Resources.resources
+H:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.csproj.GenerateResource.Cache
+G:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.FormMusicas.resources
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\MySql.Data.dll
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\bin\Debug\MySql.Data.xml
+F:\DS Ronaldo\ProjMusicaB\ProjMusicaB\obj\Debug\ProjMusicaB.FormMusicas.resources

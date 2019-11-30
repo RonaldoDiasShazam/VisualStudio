@@ -1,0 +1,18 @@
+d:\documentos\visual studio 2015\Projects\ProjetoTriangulo\ProjetoTriangulo\bin\Debug\ProjetoTriangulo.exe.config
+d:\documentos\visual studio 2015\Projects\ProjetoTriangulo\ProjetoTriangulo\bin\Debug\ProjetoTriangulo.exe
+d:\documentos\visual studio 2015\Projects\ProjetoTriangulo\ProjetoTriangulo\bin\Debug\ProjetoTriangulo.pdb
+d:\documentos\visual studio 2015\Projects\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.Form1.resources
+d:\documentos\visual studio 2015\Projects\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.Properties.Resources.resources
+d:\documentos\visual studio 2015\Projects\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2015\Projects\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.exe
+d:\documentos\visual studio 2015\Projects\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.pdb
+F:\DS Ronaldo\ProjetoTriangulo\ProjetoTriangulo\bin\Debug\ProjetoTriangulo.exe.config
+F:\DS Ronaldo\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.exe
+F:\DS Ronaldo\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.pdb
+F:\DS Ronaldo\ProjetoTriangulo\ProjetoTriangulo\bin\Debug\ProjetoTriangulo.exe
+F:\DS Ronaldo\ProjetoTriangulo\ProjetoTriangulo\bin\Debug\ProjetoTriangulo.pdb
+F:\DS Ronaldo\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.csprojResolveAssemblyReference.cache
+F:\DS Ronaldo\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.Form1.resources
+F:\DS Ronaldo\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.Properties.Resources.resources
+F:\DS Ronaldo\ProjetoTriangulo\ProjetoTriangulo\obj\Debug\ProjetoTriangulo.csproj.GenerateResource.Cache

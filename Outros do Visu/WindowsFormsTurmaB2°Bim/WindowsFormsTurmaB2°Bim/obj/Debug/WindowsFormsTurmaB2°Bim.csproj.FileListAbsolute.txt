@@ -1,0 +1,21 @@
+G:\DS\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\bin\Debug\WindowsFormsTurmaB2°Bim.exe.config
+G:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\bin\Debug\WindowsFormsTurmaB2°Bim.exe.config
+G:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\bin\Debug\WindowsFormsTurmaB2°Bim.exe
+G:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\bin\Debug\WindowsFormsTurmaB2°Bim.pdb
+G:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2°Bim.csprojResolveAssemblyReference.cache
+G:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2_Bim.Properties.Resources.resources
+G:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2°Bim.csproj.GenerateResource.Cache
+G:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2°Bim.exe
+G:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2°Bim.pdb
+G:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2_Bim.Form1.resources
+G:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2_Bim.Form2.resources
+K:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\bin\Debug\WindowsFormsTurmaB2°Bim.exe.config
+K:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2°Bim.exe
+K:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2°Bim.pdb
+K:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\bin\Debug\WindowsFormsTurmaB2°Bim.exe
+K:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\bin\Debug\WindowsFormsTurmaB2°Bim.pdb
+K:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2°Bim.csprojResolveAssemblyReference.cache
+K:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2_Bim.Form1.resources
+K:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2_Bim.Form2.resources
+K:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2_Bim.Properties.Resources.resources
+K:\DS\Visual Studio 2015\Projects\WindowsFormsTurmaB2°Bim\WindowsFormsTurmaB2°Bim\obj\Debug\WindowsFormsTurmaB2°Bim.csproj.GenerateResource.Cache

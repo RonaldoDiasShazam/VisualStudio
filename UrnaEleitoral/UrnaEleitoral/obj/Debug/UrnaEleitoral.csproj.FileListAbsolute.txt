@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\UrnaEleitoral\UrnaEleitoral\bin\Debug\UrnaEleitoral.exe.config
+C:\Users\Aluno\source\repos\UrnaEleitoral\UrnaEleitoral\bin\Debug\UrnaEleitoral.exe
+C:\Users\Aluno\source\repos\UrnaEleitoral\UrnaEleitoral\bin\Debug\UrnaEleitoral.pdb
+C:\Users\Aluno\source\repos\UrnaEleitoral\UrnaEleitoral\obj\Debug\UrnaEleitoral.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\source\repos\UrnaEleitoral\UrnaEleitoral\obj\Debug\UrnaEleitoral.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\UrnaEleitoral\UrnaEleitoral\obj\Debug\UrnaEleitoral.exe
+C:\Users\Aluno\source\repos\UrnaEleitoral\UrnaEleitoral\obj\Debug\UrnaEleitoral.pdb
+G:\Progamação Algoritmo\UrnaEleitoral\UrnaEleitoral\bin\Debug\UrnaEleitoral.exe.config
+G:\Progamação Algoritmo\UrnaEleitoral\UrnaEleitoral\bin\Debug\UrnaEleitoral.exe
+G:\Progamação Algoritmo\UrnaEleitoral\UrnaEleitoral\bin\Debug\UrnaEleitoral.pdb
+G:\Progamação Algoritmo\UrnaEleitoral\UrnaEleitoral\obj\Debug\UrnaEleitoral.csprojResolveAssemblyReference.cache
+G:\Progamação Algoritmo\UrnaEleitoral\UrnaEleitoral\obj\Debug\UrnaEleitoral.csproj.CoreCompileInputs.cache
+G:\Progamação Algoritmo\UrnaEleitoral\UrnaEleitoral\obj\Debug\UrnaEleitoral.exe
+G:\Progamação Algoritmo\UrnaEleitoral\UrnaEleitoral\obj\Debug\UrnaEleitoral.pdb

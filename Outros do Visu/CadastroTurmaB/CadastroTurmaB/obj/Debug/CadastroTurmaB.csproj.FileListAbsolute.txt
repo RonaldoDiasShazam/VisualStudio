@@ -1,0 +1,15 @@
+G:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\bin\Debug\CadastroTurmaB.exe.config
+G:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\obj\Debug\CadastroTurmaB.csprojResolveAssemblyReference.cache
+G:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\obj\Debug\CadastroTurmaB.FCadastro.resources
+G:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\obj\Debug\CadastroTurmaB.Properties.Resources.resources
+G:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\obj\Debug\CadastroTurmaB.csproj.GenerateResource.Cache
+G:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\bin\Debug\CadastroTurmaB.exe
+G:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\bin\Debug\CadastroTurmaB.pdb
+G:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\obj\Debug\CadastroTurmaB.exe
+G:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\obj\Debug\CadastroTurmaB.pdb
+K:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\bin\Debug\CadastroTurmaB.exe.config
+K:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\obj\Debug\CadastroTurmaB.exe
+K:\DS\Visual Studio 2015\Projects\CadastroTurmaB\CadastroTurmaB\obj\Debug\CadastroTurmaB.pdb
+F:\DS Ronaldo\CadastroTurmaB\CadastroTurmaB\bin\Debug\CadastroTurmaB.exe.config
+F:\DS Ronaldo\CadastroTurmaB\CadastroTurmaB\obj\Debug\CadastroTurmaB.exe
+F:\DS Ronaldo\CadastroTurmaB\CadastroTurmaB\obj\Debug\CadastroTurmaB.pdb
